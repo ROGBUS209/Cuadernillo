@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>ApuntadorA.c</itemPath>
+      <itemPath>ApuntadorB.c</itemPath>
+      <itemPath>ApuntadorC.c</itemPath>
+      <itemPath>ApuntadorD.c</itemPath>
+      <itemPath>ApuntadorE.c</itemPath>
+      <itemPath>ArreglosA.c</itemPath>
+      <itemPath>ArreglosB.c</itemPath>
+      <itemPath>ArreglosC.c</itemPath>
+      <itemPath>ArreglosD.c</itemPath>
+      <itemPath>ArreglosE.c</itemPath>
+      <itemPath>Control.c</itemPath>
+      <itemPath>ControlB.c</itemPath>
+      <itemPath>ControlC.c</itemPath>
+      <itemPath>ControlD.c</itemPath>
+      <itemPath>ControlF.c</itemPath>
+      <itemPath>Decision.c</itemPath>
+      <itemPath>DecisionB.c</itemPath>
+      <itemPath>DecisionC.c</itemPath>
+      <itemPath>Decisión 1.c</itemPath>
+      <itemPath>FuncionesA.c</itemPath>
+      <itemPath>FuncionesB.c</itemPath>
+      <itemPath>FuncionesC.c</itemPath>
+      <itemPath>FuncionesD.c</itemPath>
+      <itemPath>FuncionesE.c</itemPath>
+      <itemPath>decisiones.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>Cygwin|Cygwin</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Decision.c" ex="true" tool="0" flavor2="0">
+        <cTool>
+          <stripSymbols>false</stripSymbols>
+        </cTool>
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>Cygwin|Cygwin</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="ApuntadorA.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ApuntadorB.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ApuntadorC.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ApuntadorD.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ApuntadorE.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ArreglosA.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ArreglosB.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ArreglosC.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ArreglosD.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ArreglosE.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Control.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ControlB.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ControlC.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ControlD.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ControlF.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Decision.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="DecisionB.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="DecisionC.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Decisión 1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesA.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesB.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesC.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesD.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesE.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="decisiones.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
